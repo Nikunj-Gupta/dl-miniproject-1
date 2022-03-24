@@ -1,1 +1,1 @@
-# dl-miniproject-1
+# Residual Network Design with <5M trainable params
